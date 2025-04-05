@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Analytics Dashboard
 
 A modern, responsive analytics dashboard built with React, TypeScript, and Tailwind CSS.
@@ -82,3 +83,6 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 ## Contact
 
 Satyam Yadav - [GitHub](https://github.com/Satyamyadav2002)
+=======
+# Analytics-dashboard
+>>>>>>> 7636ad6903fb8301db0714ad887d36dd3fcd4625
